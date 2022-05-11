@@ -8,3 +8,4 @@ dev branch changes
 dev branch changes2
 dev branch changes3
 bug fixed
+bug2 fixed
